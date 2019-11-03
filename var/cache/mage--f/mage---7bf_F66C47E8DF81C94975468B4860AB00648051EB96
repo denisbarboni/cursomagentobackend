@@ -1,0 +1,26 @@
+<ul class="catblocks">
+    <li>
+    <a href="http://backend.local.com.br/women/new-arrivals.html">
+        <img src="http://backend.local.com.br/media/wysiwyg/Womennewarrivalsimg.jpg" alt="New Arrivals" />
+        <span>New Arrivals</span>
+    </a>
+    </li>
+    <li>
+    <a href="http://backend.local.com.br/women/tops-blouses.html">
+        <img src="http://backend.local.com.br/media/wysiwyg/Womentopsimg.jpg" alt="Tops &amp; Blouses" />
+        <span>Tops &amp; Blouses</span>
+    </a>
+    </li>
+    <li>
+    <a href="http://backend.local.com.br/women/pants-denim.html">
+        <img src="http://backend.local.com.br/media/wysiwyg/Womenpantsimg.jpg" alt="Pants &amp; Denim" />
+        <span>Pants &amp; Denim</span>
+    </a>
+    </li>
+    <li>
+    <a href="http://backend.local.com.br/women/dresses-skirts.html">
+        <img src="http://backend.local.com.br/media/wysiwyg/Womenskirtsimg.jpg" alt="Dresses &amp; Skirts" />
+        <span>Dresses &amp; Skirts</span>
+    </a>
+    </li>
+</ul>
